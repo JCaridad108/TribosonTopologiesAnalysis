@@ -19,7 +19,6 @@ CLs technique with pyhf. Calculations are performed for integrated luminosities
 100 fb^-1 and 3000 fb^-1.
 
 * [pyhf repo](https://github.com/scikit-hep/pyhf) : https://github.com/scikit-hep/pyhf
-* [CLs technique](https://arxiv.org/pdf/hep-ex/9902006.pdf) : https://arxiv.org/pdf/hep-ex/9902006.pdf
 
 ## Histograms
 The GenerateHistograms directory contains scripts that normalize signal and 
