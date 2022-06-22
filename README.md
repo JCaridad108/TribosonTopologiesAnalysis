@@ -3,7 +3,7 @@
 - [Jesus Manuel Caridad Ramirez](https://github.com/JCaridad108)
 
 ## Paper: High-Energy Physics – Phenomenology
-* [New physics in triboson event topologies](https://arxiv.org/abs/2112.00137)
+* [New physics in triboson event topologies](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.075027)
 * **Abstract**: We present a study of the sensitivity to models of new physics of proton collisions resulting in three electroweak bosons. As a benchmark, we analyze models in which an exotic scalar field ϕ is produced in association with a gauge boson (V=γ or Z). The scalar then decays to a pair of bosons, giving the process pp→ϕV→V′V″V. We interpret our results in a set of effective field theories where the exotic scalar fields couple to the Standard Model through pairs of electroweak gauge bosons. We estimate the sensitivity of the LHC and HL-LHC datasets and find sensitivity to cross sections in the 10 fb -- 0.5 fb range, corresponding to scalar masses of 500 GeV to 2 TeV and effective operator coefficients up to 35 TeV.
 
 ## Reconstruction Analysis
